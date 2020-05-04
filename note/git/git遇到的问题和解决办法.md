@@ -8,7 +8,7 @@
 
 ​        git pull  合并厂库
 
-​		git push -m  origin master
+​		git push -u  origin master
 
   (2) git push -f origin master 强行将本地厂库替换为远程厂库，取而代之	
 
